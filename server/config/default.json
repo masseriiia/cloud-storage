@@ -1,0 +1,6 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://bloodshoww:staya111@cloud-project.qafszrq.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secret-key",
+  "filePath": "C:\\Users\\blood\\Desktop\\CloudStorage\\server\\files"
+}
